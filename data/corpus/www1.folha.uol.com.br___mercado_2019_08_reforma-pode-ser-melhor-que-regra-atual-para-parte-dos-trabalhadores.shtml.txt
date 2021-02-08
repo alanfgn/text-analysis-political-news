@@ -1,0 +1,75 @@
+Reformas da Previdência são medidas amargas, mas um grupo de trabalhadores poderá (com o perdão do clichê) ver o limão virar limonada. A emenda em tramitação no Congresso permite benefícios maiores que os da regra atual em pelos menos 27% dos casos de homens e 17% dos de mulheres que hoje já podem se aposentar por tempo de contribuição.
+
+Isso acontece porque, hoje, o cálculo do benefício usa o fator previdenciário, índice que reduz o valor da aposentadoria para os mais novos.
+
+É uma conta que afeta principalmente quem começou a trabalhar mais cedo. Com 34 anos de contribuição, uma mulher de 51 anos de idade leva apenas 66,4% de sua média salarial se se aposentar agora.
+
+Depois da reforma, poderia conseguir 100% da média no ano que vem, quando a soma de 52 anos e 35 de contribuição iguala os 87 pontos exigidos em 2020.
+
+Antes de se animar, a trabalhadora do exemplo precisa fazer outra conta, porque a base de cálculo vai mudar.
+
+
+
+Em ambos os casos, serão usados os salários de contribuição a partir de julho de 1994. Mas na regra de hoje é feita a média apenas dos 80% maiores valores.
+
+Depois da reforma, não serão mais descontados os salários menores. Ou seja, quanto maior for a variação de salários de contribuição, maior a diferença entre as duas médias (veja quadro).
+
+(Fala-se em salário de contribuição, e não salário, porque a cobrança é feita no máximo sobre o teto do INSS. Neste ano, por exemplo, o teto é R$ 5.839,45: mesmo que a pessoa ganhe mais, a contribuição previdenciária é calculada sobre esse limite).
+
+Para saber que regra rende mais, a trabalhadora precisa multiplicar os 50% pela média atual e os 100% pela nova, e comparar os resultados.
+
+A Folha analisou 153 combinações possíveisde idades e contribuição masculinas e 252 femininas, e comparou o fator previdenciário atual com a porcentagem que seria obtida na reforma.
+
+Como a vantagem também depende das médias, foi calculadaa menor proporção da nova média a partir daqual a regra da reforma vale a pena (veja tabela ao final do texto).
+
+Um homem com 57 anos de idade e 38 de contribuição, por exemplo, precisa esperar apenas mais um ano para se beneficiar com o novo cálculo, se sua média nova for ao menos 82% da atual.
+
+Se hoje tivesse uma média de R$ 5.000, com um fator previdenciário de 80,3%, receberia um benefício R$ 4.015. Mas, ao atingir 97 pontos no ano que vem, os 39 anos de contribuição garantiriam um benefício de 98% da nova média. Se a média for de R$ 4.100 (ou seja, 82% da média anterior), o benefício já será ligeiramente maior R$ 4.018, e chegaria a R$ 4.900 para uma média de R$ 5.000, ou seja, igual à anterior.
+
+Estão no grupo de possível beneficiados todos os homens com 35 de contribuição e até 54 anos de idade e uma parcela dos que têm até 60 anos. Entre as mulheres, todas as que contribuíram ao menos 30 anos e têm até 49 anos e parte das até 55 anos.
+
+Há casos em que a nova regra permite aposentadoria maior, mas seria preciso esperar tanto tempo que talvez a vantagem se perca.
+
+Isso porque a emenda estabelece um cálculo provisório, até que lei estabeleça o definitivo. Não há prazo para a publicação dessa nova lei, mas também não há garantias de que ela continuará permitindo benefício mais vantajoso que o atual.
+
+De qualquer forma, o trabalhador que já cumpriu as condições para se aposentar tem esse direito garantido mesmo depois da reforma.
+
+Outros fatores precisam ser levados em conta na decisão de quando se aposentar. Um deles é que adiar a aposentadoria é abrir mão de receita durante algum tempo.
+
+“Mas são especialmente relevantes o contexto familiar e o projeto de vida”, diz a advogada especialista em direito previdenciário Adriane Bramante, presidente do Instituto Brasileiro de Direito Previdenciário.
+
+“Para quem ainda precisa formar os filhos e vai precisar pagar plano de saúde no futuro, quanto maior a aposentadoria mais segurança.”
+
+Para Adriane, que também responde a leitores no serviço da Folha que tira dúvidas sobre a reforma, pode ser uma vantagem ilusória começar a receber o benefício o quanto antes.
+
+“A pessoa não vai economizar e, quando ficar velhinho, sem conseguir trabalhar, aquela aposentadoria vai ser sua única renda.”
+
+perguntas e respostas
+
+Já posso me aposentar por tempo de contribuição. Preciso fazer isso antes da reforma? Não. Quem já tem direito adquirido pode dar entrada quando quiser
+
+Meu fator previdenciário é muito baixo e queria trabalhar mais para conseguir porcentagem melhor. Posso? Não. Poderá se aposentar pelas regras atuais quando quiser, mas o cálculo levará em conta apenas a contribuição até a publicação da emenda
+
+Já tenho os pontos necessários da fórmula 86/96. Preciso me aposentar antes da reforma? Não. O direito pode ser exercido a qualquer momento
+
+A transição da reforma me daria um benefício maior. Posso optar por ela, em vez de usar a regra atual? Sim, mas é preciso calcular se realmente vale a pena (leia mais abaixo).
+
+Se já cumpro a fórmula 86/96, mas com a reforma supero os 100%, também posso optar? Pode, mas é preciso calcular se o valor final realmente será maior.
+
+Se a porcentagem é maior com a reforma, por que pode não valer a pena? Porque a média dos salários hoje exclui os 20% mais baixos, e depois da reforma serão usados todos os valores. Quanto maior a variação de salários, maior a diferença das médias. Já para quem sempre contribuiu pelo teto, a diferença entre as médias deve ficar em torno de R$ 200, apenas
+
+Como descubro o valor do meu benefício pela regra atual? O site meu.inss.gov.br/central/#/simulacao estima o valor pela regra atual (se ainda não for cadastrado, basta criar um login)
+
+E para calcular a média de todos os salários, que valerá após a reforma? Após simular o valor atual (veja questão anterior), clique em “detalhar”, no canto inferior direito. Abrirá uma página com todos os salários de contribuição, corrigidos. Some todos os valores corrigidos desde julho de 1994 e divida pelo número de salários
+
+Já calculei a média da reforma. Como descubro o benefício? 
+
+Descubra quando cumpre a regra de pontos da reforma. Em 2019, a soma de sua idade e tempo de contribuição precisa ser no mínimo 86 (mulher) ou 96 (homem). Em 2020, a exigência é 87/97, e vai subindo 1 ponto por ano até 100/105. Se não cumpre a regra neste ano, vá acrescentando 2 pontos por ano até se igualar à exigência.
+
+Veja quantos anos de contribuição terá quando chegar aos pontos necessários.
+
+O benefício será de 60% da média mais 2% para cada ano de contribuição que superar 15 (mulher) ou 20 (homem)
+
+Ainda falta muito para cumprir a regra de transição. Ainda assim vale a pena esperar? Espera muito longa pode não compensar, porque o cálculo da reforma é transitório, até que lei determine regras definitivas (não há prazo para isso). Se a nova lei tiver cálculo menos benéfico e for aprovada antes que você cumpra a regra de transição, você pode não ser beneficiado
+
+O que mais devo levar em conta para decidir? Sua situação particular e familiar atual e expectativas futuras. Adiar a aposentadoria significa abrir mão de receita por algum tempo, mas pode valer a pena garantir um valor mais alto para os anos de velhice mais avançada

@@ -1,0 +1,8 @@
+                                            Document         a   acompanh   analis   ao   clar   definirs   depoil  ...  zon  zorr  zuben  zumb  zveit  zwi  zylberstajn  zzzzz...         |
+0  acervo.estadao.com.br___noticias_acervo,quatro...  0.0  0.0        0.0      0.0  0.0    0.0        0.0      0.0  ...  0.0   0.0    0.0   0.0    0.0  0.0          0.0       0.0  0.257164
+1  acervo.oglobo.globo.com___charges-e-humor_da-e...  0.0  0.0        0.0      0.0  0.0    0.0        0.0      0.0  ...  0.0   0.0    0.0   0.0    0.0  0.0          0.0       0.0  0.000000
+2  acervo.oglobo.globo.com___em-destaque_aecio-ne...  0.0  0.0        0.0      0.0  0.0    0.0        0.0      0.0  ...  0.0   0.0    0.0   0.0    0.0  0.0          0.0       0.0  0.000000
+3  blogs.oglobo.globo.com___bernardo-mello-franco...  0.0  0.0        0.0      0.0  0.0    0.0        0.0      0.0  ...  0.0   0.0    0.0   0.0    0.0  0.0          0.0       0.0  0.000000
+4  blogs.oglobo.globo.com___bernardo-mello-franco...  0.0  0.0        0.0      0.0  0.0    0.0        0.0      0.0  ...  0.0   0.0    0.0   0.0    0.0  0.0          0.0       0.0  0.000000
+
+[5 rows x 20812 columns]

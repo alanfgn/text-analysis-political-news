@@ -1,0 +1,14 @@
+                     precision    recall  f1-score   support
+
+  afastamento-aecio       0.95      0.95      0.95        44
+  impeachment-dilma       0.98      0.96      0.97        93
+        prisao-lula       0.83      0.96      0.89        72
+reforma-previdencia       0.97      0.90      0.93        70
+reforma-trabalhista       0.93      0.93      0.93       107
+       soltura-lula       0.95      0.85      0.90        41
+
+           accuracy                           0.93       427
+          macro avg       0.94      0.93      0.93       427
+       weighted avg       0.94      0.93      0.93       427
+
+accuracy score: 0.9320843091334895

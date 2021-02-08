@@ -1,0 +1,659 @@
+ Uma pesquisa do Instituto Datafolha foi divulgada neste domingo (15) pelo jornal "Folha de S.Paulo" com índices de intenção de voto para a eleição presidencial de 2018. Foram feitas 4.194 entrevistas entre 11 e 13 de abril, em 227 municípios. A margem de erro é de 2 pontos percentuais para mais ou para menos. 
+
+
+
+
+
+Veja os resultados dos 9 cenários pesquisados no 1º turno:
+
+
+
+
+
+Cenário 1 (Se Lula for candidato, Temer ficar fora da eleição e o MDB lançar Meirelles):
+
+
+
+Lula (PT): 31%
+
+Jair Bolsonaro (PSL): 15%
+
+Marina Silva (Rede): 10%
+
+Joaquim Barbosa (PSB): 8%
+
+Geraldo Alckmin (PSDB): 6%
+
+Ciro Gomes (PDT): 5%
+
+Alvaro Dias (Podemos): 3%
+
+Manuela D'Ávila (PC do B): 2%
+
+Fernando Collor de Mello (PTC): 1%
+
+Rodrigo Maia (DEM): 1%
+
+Henrique Meirelles (MDB): 1%
+
+Flávio Rocha (PRB): 1%
+
+João Amoêdo (Novo): 0
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Boulos (PSOL): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 13%
+
+Não sabe: 3%
+
+Cenário 1 - 1º turno
+
+Pesquisa de intenção de voto (em %) 13 de abril de 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 2 (Se Lula for candidato, Temer concorrer à reeleição e Meirelles não disputar):
+
+
+
+Lula (PT): 30%
+
+Jair Bolsonaro (PSL): 15%
+
+Marina Silva (Rede): 10%
+
+Joaquim Barbosa (PSB): 8%
+
+Geraldo Alckmin (PSDB): 6%
+
+Ciro Gomes (PDT): 5%
+
+Alvaro Dias (Podemos): 3%
+
+Manuela D'Ávila (PC do B): 1%
+
+Fernando Collor de Mello (PTC): 1%
+
+Rodrigo Maia (DEM): 1%
+
+Michel Temer (MDB): 1%
+
+Flávio Rocha (PRB): 1%
+
+Paulo Rabello de Castro (PSC): 1%
+
+João Amoêdo (Novo): 0
+
+Guilherme Boulos (PSOL): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 14%
+
+Não sabe: 2%
+
+Cenário 2 - 1º turno
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 3 (Se Lula for candidato, e Temer, Meirelles, Rodrigo Maia e Flávio Rocha ficarem fora da eleição):
+
+
+
+Lula (PT): 31%
+
+Jair Bolsonaro (PSL): 16%
+
+Marina Silva (Rede): 10%
+
+Joaquim Barbosa (PSB): 8%
+
+Geraldo Alckmin (PSDB): 6%
+
+Ciro Gomes (PDT): 5%
+
+Alvaro Dias (Podemos): 4%
+
+Manuela D'Ávila (PC do B): 2%
+
+Fernando Collor de Mello (PTC): 1%
+
+João Amoêdo (Novo): 1%
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Boulos (PSOL): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 13%
+
+Não sabe: 2%
+
+Cenário 3 - 1º turno
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 4 (Se o PT lançar Fernando Haddad no lugar de Lula, Temer ficar fora da eleição e o MDB lançar Meirelles):
+
+
+
+Jair Bolsonaro (PSL): 17%
+
+Marina Silva (Rede): 15%
+
+Ciro Gomes (PDT): 9%
+
+Joaquim Barbosa (PSB): 9%
+
+Geraldo Alckmin (PSDB): 7%
+
+Alvaro Dias (Podemos): 5%
+
+Manuela D'Ávila (PC do B): 2%
+
+Fernando Haddad (PT): 2%
+
+Fernando Collor de Mello (PTC): 2%
+
+Rodrigo Maia (DEM): 1%
+
+Flávio Rocha (PRB): 1%
+
+Henrique Meirelles (MDB): 1%
+
+João Amoêdo (Novo): 1%
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Boulos (PSOL): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 23%
+
+Não sabe: 3%
+
+Cenário 4 - 1º turno
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 5 (Se o PT lançar Fernando Haddad no lugar de Lula, Temer concorrer à reeleição e Meirelles não disputar):
+
+
+
+Jair Bolsonaro (PSL): 17%
+
+Marina Silva (Rede): 15%
+
+Joaquim Barbosa (PSB): 9%
+
+Ciro Gomes (PDT): 9%
+
+Geraldo Alckmin (PSDB): 7%
+
+Alvaro Dias (Podemos): 4%
+
+Manuela D'Ávila (PC do B): 2%
+
+Fernando Collor de Mello (PTC): 2%
+
+Fernando Haddad (PT): 2%
+
+Michel Temer (MDB): 2%
+
+Rodrigo Maia (DEM): 1%
+
+Flávio Rocha (PRB): 1%
+
+João Amoêdo (Novo): 1%
+
+Guilherme Boulos (PSOL): 1%
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 24%
+
+Não sabe: 4%
+
+Cenário 5 - 1º turno
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 6 (Se o PT lançar Fernando Haddad no lugar de Lula, e Temer, Meirelles, Rodrigo Maia e Flávio Rocha ficarem fora da eleição):
+
+
+
+Jair Bolsonaro (PSL): 17%
+
+Marina Silva (Rede): 15%
+
+Joaquim Barbosa (PSB): 10%
+
+Ciro Gomes (PDT): 9%
+
+Geraldo Alckmin (PSDB): 8%
+
+Alvaro Dias (Podemos): 5%
+
+Manuela D'Ávila (PC do B): 3%
+
+Fernando Haddad (PT): 2%
+
+Fernando Collor de Mello (PTC): 2%
+
+João Amoêdo (Novo): 1%
+
+Guilherme Boulos (PSOL): 1%
+
+Paulo Rabello de Castro (PSC): 1%
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 23%
+
+Não sabe: 4%
+
+Cenário 6 - 1º turno
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 7 (Se o PT lançar Jaques Wagner no lugar de Lula, Temer ficar fora da eleição e o MDB lançar Meirelles):
+
+
+
+Jair Bolsonaro (PSL): 17%
+
+Marina Silva (Rede): 15%
+
+Joaquim Barbosa (PSB): 9%
+
+Ciro Gomes (PDT): 9%
+
+Geraldo Alckmin (PSDB): 8%
+
+Alvaro Dias (Podemos): 4%
+
+Manuela D'Ávila (PC do B): 3%
+
+Fernando Collor de Mello (PTC): 2%
+
+Rodrigo Maia (DEM): 1%
+
+Henrique Meirelles (MDB): 1%
+
+Jaques Wagner (PT): 1%
+
+Flávio Rocha (PRB): 1%
+
+João Amoêdo (Novo): 1%
+
+Guilherme Boulos (PSOL): 1%
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 23%
+
+Não sabe: 4%
+
+Cenário 7 - 1º turno 
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 8 (Se o PT lançar Jaques Wagner no lugar de Lula, Temer concorrer à reeleição e Meirelles não disputar):
+
+
+
+Jair Bolsonaro (PSL): 17%
+
+Marina Silva (Rede): 15%
+
+Joaquim Barbosa (PSB): 9%
+
+Ciro Gomes (PDT): 9%
+
+Geraldo Alckmin (PSDB): 7%
+
+Alvaro Dias (Podemos): 4%
+
+Manuela D'Ávila (PC do B): 2%
+
+Fernando Collor de Mello (PTC): 2%
+
+Rodrigo Maia (DEM): 1%
+
+Michel Temer (MDB): 1%
+
+Flávio Rocha (PRB): 1%
+
+Jaques Wagner (PT): 1%
+
+João Amoêdo (Novo): 1%
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Boulos (PSOL): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 23%
+
+Não sabe: 3%
+
+Cenário 8 - 1º turno 
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenário 9 (Se o PT e Temer ficarem fora da eleição):
+
+
+
+Jair Bolsonaro (PSL): 17%
+
+Marina Silva (Rede): 16%
+
+Joaquim Barbosa (PSB): 9%
+
+Ciro Gomes (PDT): 9%
+
+Geraldo Alckmin (PSDB): 8%
+
+Alvaro Dias (Podemos): 4%
+
+Manuela D'Ávila (PC do B): 2%
+
+Fernando Collor de Mello (PTC): 2%
+
+Henrique Meirelles (MDB): 1%
+
+Flávio Rocha (PRB): 1%
+
+Rodrigo Maia (DEM): 1%
+
+Guilherme Boulos (PSOL): 1%
+
+João Amoêdo (Novo): 1%
+
+Paulo Rabello de Castro (PSC): 0
+
+Guilherme Afif Domingos (PSD): 0
+
+Em branco / nulo / nenhum: 23%
+
+Não sabe: 3%
+
+Cenário 9 - 1º turno 
+
+Pesquisa de intenção de voto (em %) 13 abr. 2018
+
+
+
+Fonte: Datafolha
+
+
+
+
+
+Cenários pesquisados para o 2º turno:
+
+
+
+
+
+Cenário 1 (se Lula for candidato e chegar ao 2º turno):
+
+
+
+Lula (PT): 48%
+
+Jair Bolsonaro (PSL): 31%
+
+Branco/nulo: 19%
+
+Não sabe: 1%
+
+
+
+
+
+Cenário 2 (se Lula for candidato e chegar ao 2º turno):
+
+
+
+Lula (PT): 48%
+
+Alckmin (PSDB): 27%
+
+Em branco/Nulo: 23%
+
+Não sabe: 1%
+
+
+
+
+
+Cenário 3 (se Lula for candidato e chegar ao 2º turno):
+
+
+
+Lula (PT): 46%
+
+Marina (Rede): 32%
+
+Em branco/Nulo: 21%
+
+Não sabe: 1%
+
+
+
+
+
+Cenário 4 (se o PT lançar Fernando Haddad no lugar de Lula):
+
+
+
+Bolsonaro (PSL): 37%
+
+Haddad (PT): 26%
+
+Em branco/Nulo: 33%
+
+Não sabe: 4%
+
+
+
+
+
+Cenário 5 (se o PT lançar Fernando Haddad no lugar de Lula):
+
+
+
+Alckmin (PSDB): 37%
+
+Haddad (PT): 21%
+
+Em branco/Nulo: 38%
+
+Não sabe: 3%
+
+
+
+
+
+Cenário 6 (se o PT lançar Jaques Wagner no lugar de Lula):
+
+
+
+Bolsonaro (PSL): 39%
+
+Jaques (PT): 23%
+
+Em branco/Nulo: 35%
+
+Não sabe: 3%
+
+
+
+
+
+Cenário 7 (se o PT lançar Jaques Wagner no lugar de Lula):
+
+
+
+Alckmin (PSDB): 41%
+
+Jaques (PT): 17%
+
+Em branco/Nulo: 39%
+
+Não sabe: 4%
+
+
+
+
+
+Cenário 8 (se Marina chegar ao 2º turno):
+
+
+
+Marina (Rede): 44%
+
+Bolsonaro (PSL): 31%
+
+Em branco/Nulo: 23%
+
+Não sabe: 2%
+
+
+
+
+
+Cenário 9 (se Marina chegar ao 2º turno):
+
+
+
+Marina (Rede): 44%
+
+Alckmin (PSDB): 27%
+
+Em branco/Nulo: 27%
+
+Não sabe: 2%
+
+
+
+
+
+Cenário 10 (se Ciro chegar ao 2º turno):
+
+
+
+Ciro (PDT): 35%
+
+Bolsonaro (PSL): 35%
+
+Em branco/Nulo: 28%
+
+Não sabe: 3%
+
+
+
+
+
+Cenário 11 (se Ciro chegar ao 2º turno):
+
+
+
+Ciro (PDT): 32%
+
+Alckmin (PSDB): 32%
+
+Em branco/Nulo: 33%
+
+Não sabe: 3%
+
+
+
+
+
+Cenário 12 (se a esquerda ficar de fora do 2º turno):
+
+
+
+Alckmin (PSDB): 33%
+
+Bolsonaro (PSL): 32%
+
+Em branco/Nulo: 32%
+
+Não sabe: 2%
